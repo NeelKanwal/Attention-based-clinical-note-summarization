@@ -1,4 +1,5 @@
 # BERTOLOGY-Based-Extractive-Summarization-for-Clinical-Notes
+Link to preprint: https://arxiv.org/abs/2104.08942
 Link to paper: https://dl.acm.org/doi/abs/10.1145/3477314.3507256
 
 # Requirments
